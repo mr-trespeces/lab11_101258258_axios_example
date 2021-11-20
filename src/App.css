@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+#header {
+  background-color: #33cc5c;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 10px 0 10px 0;
+}
+
+
+#list {
+  margin: 5px;
+  background-color: lightseagreen;
+}
+
+#button{
+  margin: 0 10px 10px 60px;
+}
+
+#heading{
+  background-color: #0b9ea3;
+}
+
+#image{
+  margin: 30px 30px 10px 60px;
+}
+
+#id {
+  font-size: 14px;;
+}
+
+.label {
+  text-align: right;
+}
+
+#info {
+  margin-top: 20px;
+}
+
+#username {
+  font-weight: bold;
+}
